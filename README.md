@@ -1,7 +1,7 @@
 <pre>
 👋 Cześć, Jestem Piotr<br>
 Od 2018 roku tworzę aplikacje w Unity. <br>
-Tworzyłę aplikację 2D, 3D oraz VR. <br>
+Programuję aplikację 2D, 3D oraz VR. <br>
 
 Dla Uniwersytetu Wrocławskiego stworzyłem aplikację Magic Spheres oraz stronę internetową: http://magicspheres.uni.wroc.pl/ <br>
 
