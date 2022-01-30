@@ -8,9 +8,9 @@ Dla Uniwersytetu Wrocławskiego stworzyłem aplikację Magic Spheres oraz stron�
 Poniżej lista kilku moich prywatnych projektów:<br>
 AstroRoom       -> Praca inżynierska......................................film na yt: https://youtu.be/NNWBVgMQz24 <br>
 Interactiv-home -> Mały projekt do opanowania eventów oraz SOLID..........film na yt: https://youtu.be/Zq_Kq1W26ns?t=93 <br>
-Projekt_S6      -> Gra RTS na PC, na studia...............................film na yt: https://youtu.be/JIfik8_Fewc <br>
-MobileRTS       -> Gra RTS na telefony, na studia.........................film na yt: https://youtu.be/Zq_Kq1W26ns?t=139 <br>
-PAM2            -> Gra na smartphony, na studia...........................film na yt: https://youtu.be/Zq_Kq1W26ns?t=22 <br>
+Projekt_S6      -> Gra RTS na PC...............................film na yt: https://youtu.be/JIfik8_Fewc <br>
+MobileRTS       -> Gra RTS na telefony.........................film na yt: https://youtu.be/Zq_Kq1W26ns?t=139 <br>
+PAM2            -> Gra na smartphony...........................film na yt: https://youtu.be/Zq_Kq1W26ns?t=22 <br>
 Shoot-Em-Up     -> Gra FPS stworzona w 4-osobowym zespole, na studia, byłem odpowiedzialny za stworzenie mechaniki
                    skakanaia oraz menu głównego...........................film na yt: https://youtu.be/Zq_Kq1W26ns?t=63 <br>
 </pre>
