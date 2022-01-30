@@ -2,6 +2,7 @@
 👋 Jestem Piotr<br>
 Od 2018 roku tworzę aplikacje w Unity. <br>
 Programuję aplikację 2D, 3D oraz VR. <br>
+Aktualnie pracuję w GiantLazer. <br>
 Dla Uniwersytetu Wrocławskiego stworzyłem aplikację Magic Spheres oraz stronę internetową: http://magicspheres.uni.wroc.pl/ <br>
 Dla firmy VR Mind tworzyłem i rozwijałem aplikacje 3D oraz VR: https://vrmind.pl/ <br>
 
