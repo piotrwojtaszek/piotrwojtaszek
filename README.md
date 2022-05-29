@@ -1,6 +1,7 @@
 <pre>
 👋 Jestem Piotr<br>
 Od 2018 roku tworzę aplikacje w Unity. <br>
+Filmy z aplikacji znajdują się na moim kanale youtube: https://www.youtube.com/channel/UCWwLhKNKggT3VwO98xwAfaw <br>
 Programuję aplikację 2D, 3D oraz VR. <br>
 Aktualnie pracuję w GiantLazer. <br>
 Dla Uniwersytetu Wrocławskiego stworzyłem aplikację Magic Spheres oraz stronę internetową: http://magicspheres.uni.wroc.pl/ <br>
