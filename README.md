@@ -7,7 +7,7 @@ Aktualnie pracuję w GiantLazer. <br>
 Dla Uniwersytetu Wrocławskiego stworzyłem aplikację Magic Spheres oraz stronę internetową: http://magicspheres.uni.wroc.pl/ <br>
 
 Poniżej lista kilku moich prywatnych projektów:<br>
-AstroRoom       -> Praca inżynierska......................................film na yt: https://youtu.be/NNWBVgMQz24 <br>
+AstroRoom       -> Praca inżynierska(PDF znajduje się w repo)............ .....film na yt: https://youtu.be/NNWBVgMQz24 <br>
 Interactiv-home -> Mały projekt do opanowania eventów oraz SOLID..........film na yt: https://youtu.be/Zq_Kq1W26ns?t=93 <br>
 Projekt_S6      -> Gra RTS na PC...............................film na yt: https://youtu.be/JIfik8_Fewc <br>
 MobileRTS       -> Gra RTS na telefony.........................film na yt: https://youtu.be/Zq_Kq1W26ns?t=139 <br>
